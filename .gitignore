@@ -1,0 +1,8 @@
+.idea
+dump.rdb
+/server/node_modules
+/server/package-lock.json
+
+/frontend/node_modules
+/frontend/package-lock.json
+/frontend/yarn.lock

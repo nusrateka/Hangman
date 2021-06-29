@@ -1,0 +1,61 @@
+.App {
+    text-align: center;
+}
+
+/*hangman css*/
+.letter {
+    display: inline-block;
+    height: 25px;
+    width: 35px;
+    margin: 0 10px;
+    vertical-align: middle;
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+
+.letter:first-child {
+    margin: 0;
+}
+
+#hangman-word {
+    margin-bottom: 10px;
+}
+
+p {
+    margin: 5px 0 0 !important;
+}
+
+#letter-input {
+    width: 50px;
+}
+
+.error {
+    color: red;
+}
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.button2 {
+    background-color: #008CBA;
+}
+
+/* Blue */
+
+.button3 {
+    background-color: #555555;
+}
+
+/* Black */
+
+
